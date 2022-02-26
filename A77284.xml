@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Generall his eccellency Thomas Lord Fairefax a servant to the high and mighty, and most excellent God, and to the nation. Written by Captain VVilliam Bray. From his captivity in VVinsor Castle.</title>
+            <author>Bray, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77284</idno>
+            <idno type="STC">Wing B4309</idno>
+            <idno type="STC">Thomason E552_6</idno>
+            <idno type="STC">ESTC R205716</idno>
+            <idno type="EEBO-CITATION">99865012</idno>
+            <idno type="PROQUEST">99865012</idno>
+            <idno type="VID">165057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E552[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Generall his eccellency Thomas Lord Fairefax a servant to the high and mighty, and most excellent God, and to the nation. Written by Captain VVilliam Bray. From his captivity in VVinsor Castle.</title>
+                  <author>Bray, William, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165057:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>TO THE GENERALL <hi>His ECCELLENCY</hi> THOMAS LORD FAIREFAX A ſervant to the high and mighty, and moſt Excellent GOD, and to the NATION.</p>
+            <p>Written By Captain VVILLIAM BRAY.</p>
+            <p>From his Captivity in <hi>VVinſor</hi> Caſtle.</p>
+            <p>
+               <date>
+                  <add>Aprill 27</add>
+               </date> Printed in the year 1649.</p>
+            <pb facs="tcp:165057:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165057:3"/>
+            <!-- PDF PAGE 27 -->
+            <pb n="1" facs="tcp:165057:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>TO The Generall, his Excellency THO<g ref="char:EOLhyphen"/>MAS Lord Fairfax, a Servant to the high and mighty, and moſt excellent God, and to the NATION.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> need not mention to you nor unto the world that I am a Priſoner, for walking in a peace<g ref="char:EOLhyphen"/>able, lawfull and warrantable way, in the claim of juſtice againſt you for the good of my Country, and for a righteous and juſt ſa<g ref="char:EOLhyphen"/>tisfaction for my wrongs, and indeed it is a preſident of dangerous moment to ſtifle the Soveraigne affections, that God kindles in the people to righte<g ref="char:EOLhyphen"/>ouſneſſe and juſtice; it raſes the foundations of natures juſt liber<g ref="char:EOLhyphen"/>ty, and doth in a ſpeciall manner as it were raiſe a Battery, and draws in Battalia againſt Chriſtian principles. Oh Sir, let not your greatneſſe make you forget before whom you are, and ſhall be though you are ſo farre above and beyond me (as I acknow<g ref="char:EOLhyphen"/>ledge in the earthly glory) yet the Lord is not, nor will be a reſpecter of perſons in judgement. Sir, ſhall a man ſee an evill and calamitie hang over the Nation after ſuch a deluge of blood, and ſhall he not ſpeak; may not you have <hi>Hamons</hi> and <hi>Achito<g ref="char:EOLhyphen"/>phels</hi> about you, that may ſeduce you to unworthy acts worthy repentance? would you have a man tormented again and again, and (if God doth not beſtow a miracle upon him to make him patient) would you torment him becauſe lie complains; Oh
+<pb n="2" facs="tcp:165057:4"/>
+               <!-- PDF PAGE 28 -->Sir, what juſt naturall liberty is here? What Chriſtian Liberty is here? Where are the fundamental laws of <hi>England?</hi> Is there any thing that is done, by you, or countenanced by you, as done by any power on your behalf, that is unnatural, that is unchriſtia<g ref="char:cmbAbbrStroke">̄</g>, that is contrary to the juſt fundamentall laws of <hi>England,</hi> the Declarations of Parliament and Army, that doth or can conduce to your Fame and Honour: Have not you ſtrook at the very Virals of liberty and freedome; truly Sir, as poore <hi>Mordicai,</hi> ſaid, let not the Queen think ſhee ſhall eſcape in the Kings houſe, more then the reſt of the Jews: ſo all thoſe that are or ever ſhall be for the Rights of the People ſhall not eſcape the Luſt, Wrath, and Vengeance of Oppreſſours; Sir, if the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> had walked, or had power to have walked againſt you, or the whole Army, by the ſame rules and principles, you and o<g ref="char:EOLhyphen"/>thers walk againſt me, then you and others had been even as I am, and in humane probabilitie this Nation had been made a <hi>Celdama,</hi> and <hi>Golgatha,</hi> a field of blood, and a place of Dead mens skuls: You complained againſt the injuſtices of men in Parliament, as if you would have brought forth impartiall righ<g ref="char:EOLhyphen"/>teouſneſſe. But Sir, whileſt my Appeal was in the Houſe, a Let<g ref="char:EOLhyphen"/>ter came from your ſelf, or ſome other, by one of your Clerks, &amp;c. This was condemned in the King, as is mentioned in King <hi>Charles</hi> his Caſe, as a way to ſubvert Juſtice: Moreover, I am committed unto your juriſdiction during pleaſure (and ſo con<g ref="char:EOLhyphen"/>trarie to law) againſt whom I have appealed without any ju<g ref="char:EOLhyphen"/>diciall ſole, ſupine, and impartiall hearing of my Cauſe; would you be delt ſo with? and would you think it juſt if a man ſhould be ſet upon in the high way, and he ſhould complain unto a Ju<g ref="char:EOLhyphen"/>ſtice of Peace, and the Juſtice of Peace ſhould deliver, him over to him that would have injured him: And here I am told by my Keeper or Goaler, that I neither write to you nor to the Par<g ref="char:EOLhyphen"/>liament, nor to any of my Chriſtian friends, but what he muſt ſee, or the Governour, or tyrannicall creature and head Goaler muſt view, who walks beyond the bonds of my commitment; and is not this hating the light? Oh horrible cruelty! contrary to the dealings of the Heathen Governour with <hi>Paul, Acts</hi> 24.23. And the Governour doth commit the Tyrany that ſo he may be the better accepted by you and the Parliament to perpe<g ref="char:EOLhyphen"/>tuate
+<pb n="3" facs="tcp:165057:4"/>
+               <!-- PDF PAGE 28 -->his honour and Tyrannie: Is it for your honour that I am <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> priſoner in appealing on the behalf of publike Right, and for par<g ref="char:EOLhyphen"/>ticular juſtice and redreſſe, the latter of which was formerly a<g ref="char:EOLhyphen"/>gainſt the late King himſelf in the publique Courts of Juſtice in <hi>Weſtminſter,</hi> very common before the blood of War, and that I ſhould be overcome by force of your influence, and committed without a lawfull hearing of the Cauſe, would it have been juſt and honourable, that <hi>David</hi> ſhould have impriſoned <hi>Nathan.</hi> becauſe <hi>Nathan</hi> told him his evils and tyrannies in the ſight of the Sun, in record to the world to all generations. And if my declaring your injuſtices and arbitrarineſſe deſerve more then a Priſon. If a private or a publike Murther, let me ſay as Chriſt ſaid to <hi>Judas,</hi> what you doe, do quickly, for I value my life no more then I value a ſtraw in the Cauſe of righteouſnes and pub<g ref="char:EOLhyphen"/>like Juſtice: How many addreſſes did I make in a Chriſtian private manner unto you before I was publike, as my appeal ex<g ref="char:EOLhyphen"/>preſſes. And my former ſilence incouraged you to go on to deale unnaturally and cruelly with me, and ſo I could not but imagine might incourage you againſt other Members in the Common-weale: And indeed one of my Enemies could ſay to me that he did finde that you had a diſaffection to me, becauſe it was thought that I had an influence in the honeſt Country mens Petitions; Sir, if you ſtrike in the Nations and my cloſe enemies deſignes, I muſt needs appeale againſt you, for they themſelves are not ſeen all the while, and they can make you beare any un<g ref="char:EOLhyphen"/>righteous burthen when they pleaſe; and indeed you muſt beare it in the ſight of the Lord and Juſt men if you own their deſigns; they walk in the dark, and make you authorize their impieties deſignes and cruelties; and truly Sir, if I had not the Image of a man, or of your own kinde in Creation, but of another crea<g ref="char:EOLhyphen"/>ture you might have ſcarce dealt ſo with me, with reaſon: And truly Sir, ſuch men that have had the credit and power to abuſe the Common-wealth and Army in and with your Perſon, may ſubvert the very ends for which this Army was declared to be raiſed and ſolemnly engaged to ſtand to; Sir, I was faſted out of my right, in one of my cauſes, and after 420. miles riding and loſſes, could have no hearing or tryall, or Chriſtian reference, as my App<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale expreſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. And ſecondly, after all my labours ex<g ref="char:EOLhyphen"/>penſes
+<pb n="4" facs="tcp:165057:5"/>
+               <!-- PDF PAGE 29 -->indebtements, and zealous affections to your particular Perſon and perſonall Conduct (in order and ſubſerviency to the right of Country (as t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Troops and my ſelf did lately ſub<g ref="char:EOLhyphen"/>ſcribe unto) which I muſt confeſſe, I deem ſupream to any perſonall honour (which is accounted by many of your favou<g ref="char:EOLhyphen"/>rites a dangerous, mutinous, ſeducing principle.) I challenge the greateſt Machivilian or enemy to the peoples right to tax me with the contrary Judgement, Opinion, Practice, or Expreſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>But Sir, I delivered a ſecond appeale unto the houſe to ſhew the illegality and unchriſtianeſſe of their commitment I could not have it read. The world cannot but in common reaſon ſee this vile in the preſence of God and juſt men, And truly Sir you neede not aske who ſhall be Judge Mr. Solliciter <hi>Cooke</hi> ſhew<g ref="char:EOLhyphen"/>eth in King <hi>Charles</hi> his caſe there are indemonſtrable principles, principles of nature ingraven in any mans heart and written in ſuch legible Characters that hee that runs may read, and there is nothing but Corruption and intereſts is the bloody interpoſer and obſtructer thereof or of an equall diſtribution of righte<g ref="char:EOLhyphen"/>ouſneſſe, And as for my juſt principles (confeſſed indeed alſo by the Parliament ſo that I am not left without witneſſes) in its primtite and maſculine conſtitution and divers times in their neceſſities of the people and alſo by the Army in their decla<g ref="char:EOLhyphen"/>rations: I had rather bee torne limbe from limbe by wild Horſes and chopped as Herbes for the Pot as the Tyrants of old did, then lay the Teſtimonies of God, principles of righteouſ<g ref="char:EOLhyphen"/>neſſe (the glory of any nation) at the foot of any fleſh alive; And if I muſt be butchered maſiacred or deſtroyed, bee kept from a legall hearing be kept from the free and uninterrupted ſociety of my friends and the free declaring of my ſelfe in order to my cauſe which is the depth of Tyranny the will of the moſt high be done, and if poſſible I could (if I muſt be for<g ref="char:EOLhyphen"/>ceibly murthered by any of my fellow Souldiers) I would ſtand and ſee the bloud runne forth with delight for my Country till I had none left to ſupport my Carkaſſe, and if I may not have impartiall judgement, and righteouſneſſe amongſt men I ſhall leave my cauſe to him who will not bee ſatisfied with this anſwer that you are in the head of an Army and have power
+<pb n="5" facs="tcp:165057:5"/>
+               <!-- PDF PAGE 29 -->to tyrannize over mee obſtruct, my right, and deſtroy mee in my tender yeares and liberties, and before whom when hee enters into judgement with all fleſh this will not juſtifie you, that you ſhall ſay that ſuch particular perſons had a private in<g ref="char:EOLhyphen"/>fluence upon you to abuſe you, or bee an occaſion of your de<g ref="char:EOLhyphen"/>ſtroying any man, in life, liberty, or eſtate contrary unto reaſon or righteouſneſſe.</p>
+            <p>And now I addreſſe unto you in more particular manner from the Lord of Hoaſts, the God of Armies, the God of Ju<g ref="char:EOLhyphen"/>ſtice and righteouſneſſe, the King, the Governour of the world, the everlaſting God, the Judge, the Law-giver, who hath told mee perfectly in the Conſcience by his ſpirituall and certaine teſtimony, that fithence you have overturned the face of all authorities, under a notion of righteouſneſſe and Juſtice, that the Lord will require all the innocent blood oppreſſions and cruelties from the day of the death of the late King, at your hands and at the hands of Lievtenant Generall <hi>Cromwell</hi> and and Commiſſary Generall <hi>Ireton</hi> in an eſpeciall manner, and others that have pretended to Impartiall righteouſneſſe in the Houſe of Commons; and the Lord hath inforced my ſpirit to tell you ſo and declare it to you divers times in my enjoy<g ref="char:EOLunhyphen"/>ments of my God in my bonds, and the Lord hath ingaged himſelfe to mee in my Cauſe, and will ſtand by mee, and hath commanded me to tell you, that I am in his name and for this his Nations ſake, to demand reparations to for my unrighteous impriſonment, and freedome for it, and that I may have a free<g ref="char:EOLhyphen"/>ſpeedy and judicial hearing of my cauſe, and that I may have the liberty of the choice of halfe of thoſe men of the Houſe that I ſhall deeme are impartiall and unbraſed and not corrupt men for the hearing and triall of the buſineſſe; and that the hearing may be open and publique in the ſight of the Sunne, and that the obligation of impartiall righteouſneſſe may bee upon them according to the nature of juſt judgement, and that there bee writers on both ſides to take exactly what is ſayd on the be<g ref="char:EOLhyphen"/>halfe of the Common-weale, the Army and my owne right, and every one in one another; And the Lord hath ingaged him<g ref="char:EOLhyphen"/>ſelfe for mee and I know the Lord will ſupport me and carry me forth to make it appeare, againſt you, or any of thoſe that have ſeduced you to deſtroy me, and under me, even him that
+<pb n="6" facs="tcp:165057:6"/>
+               <!-- PDF PAGE 30 -->was the chiefe author of the Declarations of the Army, and the Lord will aſſiſt mee to make it appeare that the actions and dealings with mee are contrary to the law of nature in creation; The fundamentall Lawes of <hi>England,</hi> the ſolemne Declarations of the Parliament and Army, the Scriptures, and contrary to the glorious light of the moſt high in the Spirit; ſo I leave you to the Lord of righteouſneſſe, juſtice, goodneſſe, and mercy, (who hath profeſt a care of Sparrowes and the haires of a mans head) and doe ſubſcribe my ſelfe in faithfulneſſe and truth.</p>
+            <closer>
+               <dateline>From my captivity, ſlavery, and arbitrary impriſonment, as to men, though I have freedome, joy, and aboun<g ref="char:EOLhyphen"/>dance of conſolation as to God, in <hi>Windſor</hi> Caſtle.</dateline>
+               <signed>Your Excellencies reall Ser<g ref="char:EOLhyphen"/>vant if you are faithfull to the moſt excellent juſt and im<g ref="char:EOLhyphen"/>partiall God in the Nations freedomes. <hi>WILLIAM BRAY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
